@@ -6,4 +6,3 @@
 - ⚡ Fun fact: na real queria aprender a linguagem do coração dela...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scbielzin&layout=compact)](https://github.com/scbielzin/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scbielzin&)](https://github.com/scbielzin/github-readme-stats)
